@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-01T20:49:14 CST" name="Default suite" finished-at="2025-11-01T20:49:27 CST" duration-ms="12906">
+  <suite started-at="2025-11-07T18:13:20 CST" name="Default suite" finished-at="2025-11-07T18:13:33 CST" duration-ms="12504">
     <groups>
     </groups>
-    <test started-at="2025-11-01T20:49:14 CST" name="Default test" finished-at="2025-11-01T20:49:27 CST" duration-ms="12906">
-      <class name="p2.Productos">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:p2.Productos@56620197]" started-at="2025-11-01T20:49:14 CST" name="setUp" finished-at="2025-11-01T20:49:18 CST" duration-ms="3901" status="PASS">
+    <test started-at="2025-11-07T18:13:20 CST" name="Default test" finished-at="2025-11-07T18:13:33 CST" duration-ms="12504">
+      <class name="p4.Tallas">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:p4.Tallas@56620197]" started-at="2025-11-07T18:13:20 CST" name="setUp" finished-at="2025-11-07T18:13:29 CST" duration-ms="9063" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testEliminarCategoria()[pri:0, instance:p2.Productos@56620197]" started-at="2025-11-01T20:49:18 CST" name="testEliminarCategoria" finished-at="2025-11-01T20:49:27 CST" duration-ms="8874" status="PASS">
+        <test-method signature="testEliminarTalla()[pri:7, instance:p4.Tallas@56620197]" started-at="2025-11-07T18:13:29 CST" name="testEliminarTalla" finished-at="2025-11-07T18:13:32 CST" duration-ms="3298" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEliminarCategoria -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:p2.Productos@56620197]" started-at="2025-11-01T20:49:27 CST" name="tearDown" finished-at="2025-11-01T20:49:27 CST" duration-ms="111" status="PASS">
+        </test-method> <!-- testEliminarTalla -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:p4.Tallas@56620197]" started-at="2025-11-07T18:13:32 CST" name="tearDown" finished-at="2025-11-07T18:13:33 CST" duration-ms="121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- p2.Productos -->
+      </class> <!-- p4.Tallas -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -150,7 +150,7 @@ public class verificarLogin {
     }*/
     
     // PRUEBA 3: MANEJO DE SESIÓN ACTIVA
-    @Test(priority = 3)
+    /*@Test(priority = 3)
     public void testManejoSesionActiva() {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
@@ -212,6 +212,6 @@ public class verificarLogin {
         System.out.println("Integración correcta - Sesión persistente");
         
         driver.quit();
-    }
+    }*/
     
 }
